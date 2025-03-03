@@ -5,6 +5,7 @@ My solutions for Codewars problems, inspired by [Orange9000's Codewars repositor
 - [Longest Repeated DNA Motif](https://www.codewars.com/kata/5713a7ff8807941cf7000a13)
 
 6kyu
+- [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Autocomplete! Yay!](https://www.codewars.com/kata/5389864ec72ce03383000484)
 - [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 
